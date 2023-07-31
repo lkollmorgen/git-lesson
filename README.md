@@ -10,3 +10,4 @@ follow this procedure:
 2. when you have your changes, tell git you are ready to create a commit by
 adding files to the staging area using "git add filename"
 3. create a commit using 'git commit -m "message about what you did"'
+//you can also unstage files with restore
